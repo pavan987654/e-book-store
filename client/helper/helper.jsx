@@ -1,0 +1,1 @@
+export const serverUrl = "https://bookstore-ze58.onrender.com"
